@@ -1,1 +1,6 @@
-# dio-desafio-ransom
+# Desafio Ransomware
+
+### Ferramentas
+
+- Kali Linux
+- Python
